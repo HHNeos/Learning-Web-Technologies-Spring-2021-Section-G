@@ -8,4 +8,4 @@ This is my ***Second*** Github repository of this **Course**.
 > - To stop being a continious variable of this *Universe.*
 > - Being a **theif** is not always a pleasant way to proceed in future.
 >
-> *Mr. Fox is finding his claws in the *cave*.   
+> *Mr. Fox is finding his claws in *cave*.   
