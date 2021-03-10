@@ -1,0 +1,42 @@
+Employees>
+	<Employee sl='1'>
+		<id>1</id>
+		<Name>Alim</Name>
+		<adress>
+			<flat_no></flat_no>
+			<house_no.>45</house_no.>
+			<Road_no.>4</Road_no.>
+			<Area>Gabtoli</Area>
+			<city>Dhaka</city>
+		</adress>
+		<dept>HR</dept>
+		<Salary>$600</Salary>
+	</Employee>
+	<Employee sl='2'>
+		<id>1</id>
+		<Name>Linus</Name>
+		<adress>
+			<flat_no>2B/3</flat_no>
+			<house_no.>32</house_no.>
+			<Road_no.>12</Road_no.>
+			<Area>Baridhara</Area>
+			<city>Dhaka</city>
+		</adress>
+		<dept>Adminstration</dept>
+		<Salary>$2000</Salary>
+	</Employee>
+	<Employee sl='3'>
+		<id>333</id>
+		<Name>Chris Offspring</Name>
+		<adress>
+			<flat_no>33/C</flat_no>
+			<house_no.>303</house_no.>
+			<Road_no.>299</Road_no.>
+			<Area>Nowhere</Area>
+			<city>Dhaka</city>
+		</adress>
+		<dept>CEO</dept>
+		<Salary>$10000</Salary>
+	</Employee>
+
+</Employees>
